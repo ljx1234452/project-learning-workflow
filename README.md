@@ -54,3 +54,7 @@ git clone https://github.com/ljx1234452/project-learning-workflow.git "$HOME/.ag
 
 - [`SKILL.md`](SKILL.md) 定义工作流程和小任务 PRD 的结构。
 - [`agents/openai.yaml`](agents/openai.yaml) 设置 Codex 中的显示名称、简介和默认调用语。
+
+## 开源许可
+
+本项目采用 [MIT 许可证](LICENSE)。你可以使用、修改和分发这个 Skill，请在副本或实质性部分中保留版权声明和许可声明。
