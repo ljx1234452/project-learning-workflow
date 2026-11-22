@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 项目设计与学习"
+  short_description: "和 AI 一起明确项目目标、规划路线、编写小任务 PRD、试用验收并完成项目交付"
+  default_prompt: "用 $project-learning-workflow 帮我明确项目目标，并陪我走到第一份可执行的小任务 PRD。"
